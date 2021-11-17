@@ -21,7 +21,7 @@ setup(
     author = 'James Bergstra',
     author_email = 'anon@anon.com',
     description = 'Hyperparameter Optimization for sklearn',
-    long_description = open('README.md').read(),
+    #long_description = open('README.md').read(),
     keywords = ['hyperopt', 'hyperparameter', 'sklearn'],
     classifiers = [
         'Development Status :: 3 - Alpha',
